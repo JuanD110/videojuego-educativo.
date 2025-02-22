@@ -1,1 +1,31 @@
 documento para la creacion del videojuego
+
+Guardianes del ecosistema es un videojuego educativo diseñado para enseñar Ciencias Naturales 
+a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. 
+La historia se desarrolla en Ecomundo, un mundo lleno de misterios, desafíos y 
+personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del 
+juego está diseñado para combinar diversión y educación, permitiendo que los 
+estudiantes adquieran conocimientos de manera natural mientras exploran, 
+resuelven problemas y superan obstáculos. 
+El protagonista de esta aventura es Timo, un/a joven guardian del bosque de cabello verde y vestimenta ecologica. Timo es un/a explorador curioso y valiente que ha sido elegido/a para una misión 
+única: salvar los ecosistemas en peligro en Ecomundo. Con su habilidad para comunicarse con los animales y restaurar la naturaleza, Timo
+deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a 
+los jugadores conceptos clave de Ciencias Naturales. 
+El jugador podrá explorar diferentes ecosistemas, para avanzar deberá resolver acertijos ambientales y completar minijuegos, y los desafíos 
+incluirán recolección de residuos, restauración de hábitats y protección de especies en peligro.
+Los estudiantes avanzarán mediante un sistema de niveles progresivos basado en la superación de retos ecológicos. Cada nivel representa un ecosistema diferente (bosque, río, desierto, océano, etc.), y los jugadores recibirán retroalimentación inmediata sobre su 
+desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros. 
+Los jugadores aprenderán el ciclo del agua mediante una actividad de purificación y conservación del agua. Se reforzará 
+ la importancia del reciclaje a través de un minijuego de separación de residuos y las evaluaciones se realizarán mediante 
+cuestionarios interactivos y misiones de exploración, lo que permitirá a los profesores y estudiantes medir el progreso de 
+manera efectiva. 
+El 
+juego se desarrollará usando Unity y tendrá soporte para 
+PC, tabletas y dispositivos móviles 
+Además, 
+se 
+implementarán 
+características 
+como 
+gráficos 3D optimizados y conectividad para informes de progreso para garantizar una experiencia de 
+juego fluida y atractiva. 
